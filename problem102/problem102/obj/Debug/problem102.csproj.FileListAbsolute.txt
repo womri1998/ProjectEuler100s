@@ -1,0 +1,6 @@
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\bin\Debug\problem102.exe.config
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\bin\Debug\problem102.exe
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\bin\Debug\problem102.pdb
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\obj\Debug\problem102.csprojResolveAssemblyReference.cache
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\obj\Debug\problem102.exe
+C:\Users\עמרי ויסבכט\Desktop\ProjectEuler\problem102\problem102\obj\Debug\problem102.pdb
